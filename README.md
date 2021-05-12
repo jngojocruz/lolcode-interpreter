@@ -1,8 +1,12 @@
+# LOL-Code Interpreter using Python
+
+![](interpreter-demo.gif)
+
 ### Requirements:
 
 - To run the program, the user must have python 3 installed on their device.
-- The program still is not working properly for windows system so only linux system is recommended in running the program.
-- Make sure also that your python installation actually has the library for tkinter. (Tkinter is built in with python when you install it, but some system that comes pre-installed with python3 does not have the necessary library to run the program.)
+- The program still is not working properly for Windows system so only Linux system is recommended in running the program.
+- Make sure also that your python installation actually has the library for Tkinter. (Tkinter is built in with python when you install it, but some system that comes pre-installed with python3 does not have the necessary library to run the program.)
 - To install python:
 run `sudo apt install python3` (for debian based system and replace apt install with the command corresponding to your package manager.)
 - To install Tkinter libraries:
@@ -22,3 +26,5 @@ This will allow WSL to display the graphical user interface of the program to sh
 - Make sure that the current working directory contains all the necessary .py files.
 - Run the program by typing in the command `python3 interpreter.py`
 - The program will now start and the user can now use the interpreter.
+
+*README.md written by John Mel Ramos*
